@@ -22,7 +22,7 @@
 
 ### 📫 Let's Connect!
 - 📩 Email: `ankurvankur017@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankur-verma-9449a918b/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/ankur-verma-9449a918b/](https://www.linkedin.com/in/ankur-verma-6b80b416a/))
 - 📂 [Resume](https://github.com/vankur017/portfolio/blob/main/public/updatedres.pdf)
 
 ---
