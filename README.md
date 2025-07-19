@@ -9,7 +9,7 @@
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
 - **Backend:** Firebase, Node.js, Express.js
 - **Testing:** Cypress, Jest
-- **Others:** Git, GitHub, Redux Toolkit, Zustand, WebSocket, FastAPI, MongoDB, LM Studio
+- **Others:** Git, GitHub, Redux Toolkit, FastAPI, LM Studio
 
 ---
 
