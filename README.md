@@ -17,7 +17,7 @@
 
 - 🧠 [**Bite-Buddy**](https://github.com/vankur017/Bite-Buddy): A full-stack food recommendation platform using React, Firebase, and Tailwind.
 - 🌐 [**JobPortal**](https://github.com/vankur017/jobportal): A full-featured Job Portal Web App built with React.js, Firebase, and Framer Motion
-- 🌐 [**Portfolio**](https://github.com/vankur017/portfolio): My personal portfolio showcasing work, skills, and contact info.
+- 🌐 [**Portfolio**](https://portfolio-one-mocha-85.vercel.app/): My personal portfolio showcasing work, skills, and contact info.
  
 ---
 
