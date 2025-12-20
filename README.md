@@ -1,6 +1,6 @@
 # Hi, I'm Ankur Verma 👋
 
-🎯 **Associate Software Developer**  
+🎯 **Analyst I Software Developer(Frontend)**  
 💻 Passionate about building responsive, scalable, and user-friendly web applications.
 
 ---
