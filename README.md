@@ -7,7 +7,7 @@
 
 ### 🔧 Tech Stack
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
-- **Backend:** Firebase, Node.js, Express.js
+- **Backend:** Firebase, Serverless
 - **Testing:** Cypress, Jest
 - **Others:** Git, GitHub, Redux Toolkit, FastAPI, OpenRouter
 
