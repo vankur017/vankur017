@@ -1,6 +1,6 @@
 # Hi, I'm Ankur Verma 👋
 
-🎯 **Frontend Developer | React • Redux • TypeScript**  
+🎯 **Frontend Developer | React • Redux • JavaScript**  
 💻 Frontend engineer with **3 years of experience** building scalable, performance-optimized, and enterprise-grade web applications.
 
 I specialize in **React-based UI architecture**, **custom hooks**, **global state management**, and **frontend performance optimization**, with hands-on experience delivering production-ready features in collaborative, fast-paced environments.
